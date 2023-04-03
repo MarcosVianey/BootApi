@@ -10,13 +10,20 @@ public class Factory
     public static Dictionary<string, Type> StoreMap = new Dictionary<string, Type>()
         {
             { "ML", typeof(MercadoLivre) },
-            { "AWS", typeof(Bootcamp2.Store.Amazon) }
+            { "AM", typeof(Bootcamp2.Store.Amazon) }
         };
         
-        public static IStore GetStore(string value)
+        public static Task<List<Product>> GetStore(string value,string termo)
         {
             var type = StoreMap[value].GetConstructor(new Type[] { });
             var instance = (IStore)type.Invoke(new object[] { });
-            return instance;
-        } 
+            return instance.Search(termo);
+        }
+
+        public static void GetProduct(string value, Product product)
+        {
+            var type = StoreMap[value].GetConstructor(new Type[] { });
+            var instance = (IStore)type.Invoke(new object[] { });
+            instance.Get(product);
+        }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desafio\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj": {}
+    "C:\\DesafioBoot\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj": {}
   },
   "projects": {
-    "C:\\Desafio\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj": {
+    "C:\\DesafioBoot\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desafio\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj",
+        "projectUniqueName": "C:\\DesafioBoot\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj",
         "projectName": "Bootcamp2",
-        "projectPath": "C:\\Desafio\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj",
+        "projectPath": "C:\\DesafioBoot\\Bootcamp2\\Bootcamp2\\Bootcamp2.csproj",
         "packagesPath": "C:\\Users\\marcos.vianey_cmtecn\\.nuget\\packages\\",
-        "outputPath": "C:\\Desafio\\Bootcamp2\\Bootcamp2\\obj\\",
+        "outputPath": "C:\\DesafioBoot\\Bootcamp2\\Bootcamp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

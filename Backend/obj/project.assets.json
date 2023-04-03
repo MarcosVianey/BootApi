@@ -4281,11 +4281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootcampAPI\\BootcampAPI.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootApi\\Backend\\BootcampAPI.csproj",
       "projectName": "BootcampAPI",
-      "projectPath": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootcampAPI\\BootcampAPI.csproj",
+      "projectPath": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootApi\\Backend\\BootcampAPI.csproj",
       "packagesPath": "C:\\Users\\gustavo.rocha_cmtecn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootcampAPI\\obj\\",
+      "outputPath": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootApi\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gustavo.rocha_cmtecn\\AppData\\Roaming\\NuGet\\NuGet.Config",

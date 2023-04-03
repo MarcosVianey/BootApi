@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/120FUDuEBZUgVFVXjGgwYyJiLNtld2v5IywnP9RSN+z+zWJaAEndpFLRL/gO5xn1zUk63mfqbFPJIvZm9QnEA==",
+  "dgSpecHash": "VENdj43IpT7MT54VD4AxpLkyCPPVNFd+zfrtzTUN+ZjWdJrAdwlQ93nYBL8D+IkOhnXhlOMOoLFFPRSK/doJVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootcampAPI\\BootcampAPI.csproj",
+  "projectFilePath": "C:\\Users\\gustavo.rocha_cmtecn\\Documents\\Projetos Pessoais\\bootcamp\\BootApi\\Backend\\BootcampAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gustavo.rocha_cmtecn\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
     "C:\\Users\\gustavo.rocha_cmtecn\\.nuget\\packages\\awssdk.core\\3.7.105.8\\awssdk.core.3.7.105.8.nupkg.sha512",
